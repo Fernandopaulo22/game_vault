@@ -1,17 +1,39 @@
-# game_vault
+# GameVault
 
-A new Flutter project.
+## Descrição
 
-## Getting Started
+O GameVault é um aplicativo desenvolvido em Flutter para gerenciamento de coleções de jogos. O sistema permite cadastrar, editar, excluir, buscar e organizar jogos de forma prática e intuitiva.
 
-This project is a starting point for a Flutter application.
+O aplicativo foi desenvolvido como trabalho acadêmico da disciplina de Desenvolvimento Multiplataforma Desktop.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Cadastro de jogos
+- Edição de jogos
+- Exclusão de jogos
+- Busca por nome
+- Filtros por status
+- Dashboard com estatísticas
+- Persistência de dados com SQLite
+- Adição de imagens
+- Tela de detalhes
+- Controle de coleção
+- Controle de itens desejados
+- Controle de itens vendidos
+- Controle de itens emprestados
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+
+- Flutter
+- Dart
+- SQLite
+- VSCode
+- Android Studio
+
+## Objetivo
+
+O objetivo do aplicativo é ajudar colecionadores a organizarem suas coleções de jogos digitais ou físicos, substituindo controles feitos em papel, planilhas ou anotações.
+
+## Autor
+
+Fernando Paulo De Jesus Santos 
